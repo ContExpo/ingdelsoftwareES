@@ -12,7 +12,7 @@ EXPORT:
   5. Done.
 
 IMPORT:
-  1. Download the Github [modelio project folder](http://google.com)
+  1. Download the Github [modelio project folder](https://github.com/ContExpo/ingdelsoftwareES/tree/main/Modelio/tp7_isoft)
   2. Zip it.
   3. In Modelio Context Menu, select "File > Import a project"
   4. Search the zip you've just created wherever is, and selected it.
