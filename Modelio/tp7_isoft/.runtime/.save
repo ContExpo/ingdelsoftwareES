@@ -1,0 +1,17 @@
+#Wed Nov 10 13:15:02 CET 2021
+org.modelio.app.diagram.editor.OpenedDiagrams4='Use Case Diagram' {e3bc8640-3c54-40f6-976b-6f8dc946522d} Standard.UseCaseDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams3='Eliminar producto Sequence diagram' {0a379997-81a0-46a7-9474-23739109ad79} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams2='Modificar producto Sequence diagram' {22345dfe-67ac-4021-bd7f-df808f02895b} Standard.SequenceDiagram
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\:/Users/Dede/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.app.diagram.editor.OpenedDiagrams1='Crear producto Sequence Diagram' {ea1d0049-7f48-472d-a5bf-a3e864e3414b} Standard.SequenceDiagram
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\:/Users/Dede/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.diagram.editor.OpenedDiagrams0='Class Diagram' {cd99c86c-1309-4397-8f58-159137e06ec4} Standard.ClassDiagram
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\:/Users/Dede/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
+org.modelio.app.diagram.editor.OpenedDiagrams11='Consultar listado pedidos Sequence diagram' {20d37325-8d50-47b5-8622-ddc0f6bac652} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams10='Consultar productos de un pedido Sequence diagram' {80174328-11bd-427e-9614-b89bde6b1eae} Standard.SequenceDiagram
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\:/Users/Dede/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.diagram.editor.OpenedDiagrams9='Enviar informacion Sequence diagram' {5f90012b-f321-4e97-9a9e-78b579d493ff} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams8='Eliminar pedido Sequence diagram' {6d61ec93-4a72-42c6-8cee-ea41394275a0} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams7='Modificar Pedido Sequence diagram' {e36a0a63-5797-472a-84a0-471eac87294c} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams6='Crear pedido Sequence diagram' {b6d03618-1134-4a9e-ba91-fb8600fb4f12} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams5='Consultar listado productos Sequence diagram' {40ee4320-69cc-4959-a00b-09db63feeb46} Standard.SequenceDiagram

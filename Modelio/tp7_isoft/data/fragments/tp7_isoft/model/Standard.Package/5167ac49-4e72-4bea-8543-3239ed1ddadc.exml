@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Aplicacion de pedidos (SQDs)" version="4">
+  <OBJECT>
+    <ID name="Aplicacion de pedidos (SQDs)" mc="Standard.Package" uid="5167ac49-4e72-4bea-8543-3239ed1ddadc"/>
+    <PID name="tp7_isoft" mc="Standard.Package" uid="3845a874-1f1e-4b70-9c25-54d4bcfd62c0"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Aplicacion de pedidos (SQDs)]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Producto" mc="Standard.Package" uid="5bdd4e4e-35e6-467f-8260-7b1982bfc6e0"/>
+        <COMPID name="Pedido" mc="Standard.Package" uid="dc6dfefa-5ecd-4a69-b2dd-36246e14ccd6"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

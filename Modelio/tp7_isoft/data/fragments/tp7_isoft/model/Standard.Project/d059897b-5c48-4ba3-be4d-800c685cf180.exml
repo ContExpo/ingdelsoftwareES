@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="tp7_isoft" version="4">
+  <OBJECT>
+    <ID name="tp7_isoft" mc="Standard.Project" uid="d059897b-5c48-4ba3-be4d-800c685cf180"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[tp7_isoft]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="tp7_isoft" mc="Standard.Package" uid="3845a874-1f1e-4b70-9c25-54d4bcfd62c0"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="tp7_isoft" mc="Infrastructure.DiagramSet" uid="f4fdd994-86fe-47ff-b1e1-a5ce2df6d9d6"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
