@@ -1,0 +1,5 @@
+#Tue Nov 16 18:30:31 CET 2021
+org.modelio.app.diagram.editor.OpenedDiagrams3='DPD Deploy Diagram' {a20fceee-3847-48a0-ad43-7ac833ad7763} Standard.DeploymentDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams2='CPD Component Diagram' {be73719f-a533-4961-82da-525dbe5fa6b9} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams1='PQD Package Diagram' {07a665d4-a270-4668-a55e-0eac6c5d7a30} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams0='CSD Class diagram' {c62c174d-af05-4f70-b6bc-c6f24a606f45} Standard.ClassDiagram

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Import" version="4">
+  <OBJECT>
+    <ID name="Import" mc="Standard.Package" uid="23515c8b-33b5-4f80-979a-337c549535c5"/>
+    <PID name="pr3_isoft" mc="Standard.Package" uid="6ac59b38-21f2-4bc9-bc88-c85f988d68c6"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Import]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="android" mc="Standard.Package" uid="a5986441-778c-452b-a082-97e8f72997b5"/>
+        <COMPID name="java.awt" mc="Standard.Package" uid="a4eb7034-558f-4b8e-81da-41380567c24b"/>
+        <COMPID name="javax.swing.text" mc="Standard.Package" uid="ba5ba9e4-3983-4924-9919-507adfbd9aaf"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

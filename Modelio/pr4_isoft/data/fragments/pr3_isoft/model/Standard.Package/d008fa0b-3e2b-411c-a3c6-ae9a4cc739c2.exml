@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="widget" version="4">
+  <OBJECT>
+    <ID name="widget" mc="Standard.Package" uid="d008fa0b-3e2b-411c-a3c6-ae9a4cc739c2"/>
+    <PID name="android" mc="Standard.Package" uid="a5986441-778c-452b-a082-97e8f72997b5"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[widget]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ListAdapter" mc="Standard.Interface" uid="10295ba6-b613-4658-9918-1da9b6fee818"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

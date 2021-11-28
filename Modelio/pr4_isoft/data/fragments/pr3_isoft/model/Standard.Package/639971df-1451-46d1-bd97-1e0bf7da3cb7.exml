@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CSD" version="4">
+  <OBJECT>
+    <ID name="CSD" mc="Standard.Package" uid="639971df-1451-46d1-bd97-1e0bf7da3cb7"/>
+    <PID name="pr3_isoft" mc="Standard.Package" uid="6ac59b38-21f2-4bc9-bc88-c85f988d68c6"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[CSD]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="es.eina.unizar.notepad" mc="Standard.Package" uid="d0050fae-c586-458d-9aab-c13199199b04"/>
+        <COMPID name="android" mc="Standard.Package" uid="25a6638b-0ca3-44d1-aad1-a7d55421d8cc"/>
+        <COMPID name="Application" mc="Standard.Component" uid="144ebb98-a260-48c4-8564-2ddfd44a14cd"/>
+        <COMPID name="Database" mc="Standard.Component" uid="2ea487c3-1234-43fd-9d2f-4c09645c59c1"/>
+        <COMPID name="Phone" mc="Standard.Node" uid="3f5d12b8-8d75-4e9a-9d17-237197876907"/>
+        <COMPID name="app-debug.apk" mc="Standard.Artifact" uid="ab451cdc-50ed-498b-be96-5b3294cd59f0"/>
+        <COMPID name="SQLite" mc="Standard.Artifact" uid="27bd5673-394b-4b44-b0c2-92bff37def8c"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="CSD Class diagram" mc="Standard.ClassDiagram" uid="c62c174d-af05-4f70-b6bc-c6f24a606f45"/>
+        <COMPID name="PQD Package Diagram" mc="Standard.ClassDiagram" uid="07a665d4-a270-4668-a55e-0eac6c5d7a30"/>
+        <COMPID name="CPD Component Diagram" mc="Standard.ClassDiagram" uid="be73719f-a533-4961-82da-525dbe5fa6b9"/>
+        <COMPID name="DPD Deploy Diagram" mc="Standard.DeploymentDiagram" uid="a20fceee-3847-48a0-ad43-7ac833ad7763"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

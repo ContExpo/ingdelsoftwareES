@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="pr3_isoft" version="4">
+  <OBJECT>
+    <ID name="pr3_isoft" mc="Standard.Package" uid="6ac59b38-21f2-4bc9-bc88-c85f988d68c6"/>
+    <PID name="pr3_isoft" mc="Standard.Project" uid="ea90d0cf-308c-419e-92e0-dc5fbf542ca5"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[pr3_isoft]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Import" mc="Standard.Package" uid="23515c8b-33b5-4f80-979a-337c549535c5"/>
+        <COMPID name="CSD" mc="Standard.Package" uid="639971df-1451-46d1-bd97-1e0bf7da3cb7"/>
+        <COMPID name="SQDs" mc="Standard.Package" uid="83d5d0f7-6bb4-45b7-8e1a-31cde2100184"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
